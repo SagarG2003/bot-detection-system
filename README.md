@@ -79,7 +79,7 @@ This project is under [MIT](https://choosealicense.com/licenses/mit/) license.
 
 
 ## About the Team
-
+Team Name: Byte Brigade
 - Sagar Guney (Team Leader)
 - Mayank Raj
 - Harsh Raj
