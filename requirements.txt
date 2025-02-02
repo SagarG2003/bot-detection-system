@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.0
+fastapi==0.95.0
+uvicorn==0.21.1
+textblob==0.17.1
+cryptography==39.0.1
+kafka-python==2.0.2
+pyspark==3.3.2
